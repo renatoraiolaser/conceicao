@@ -1,0 +1,125 @@
+Com base no layout e cores do código que enviei quero que faças o site conforme vou descrever:
+
+Página "Inicio" :
+
+Deve ter a foto da advogada do lado esquerdo (foto1), ao lado da foto deve ter o solgan " A sua 
+Advogada de confiança!" na cor verde e por baixo do slogan o nome "Conceição Lopes" destacado na cor dourado
+
+Por baixo disso quero estes tópicos e respetivas descrições a deslizar entre eles tipo slide para o lado de 3 em 3 segundos continuamente:
+- Análise e Prevenção de Riscos Legais:Recomendação de medidas corretivas ou precauções para evitar litígios ou problemas legais.
+- Documentação Preventiva: Contratos, acordos e outros documentos legais de forma proativa para proteger os seus interesses.
+- Orientação Jurídica: Práticas sobre como agir em conformidade com a lei de forma a agilizar os seus negócios.
+- Atualizações Legais e Jurisprudência: Previne os seus clientes sobre novas leis ou decisões judiciais que possam afetar os seus interesses.
+
+Cada um destes tópicos tem um icon (icon1, icon2, icon3 e icon4)
+
+Página "Sobre":
+
+Nesta página quero novamente a foto1 do lado esquerdo. Ao lado quero o nome em destaque "Conceição Lopes" com a seguinte 
+descrição por baixo: "Sou a Conceição Lopes, uma advogada apaixonada pelo que faço e dedicada a defender os direitos e 
+interesses dos meus clientes. 
+Acredito que cada caso é único e, por isso, priorizo a transparência e uma comunicação
+ clara em todo o processo.
+Valorizo a ética e a justiça em todas as áreas da minha vida, e acredito que um advogado deve ser, antes de tudo, um 
+defensor da dignidade humana.
+O meu compromisso é oferecer um atendimento humanizado, em que cada cliente se sinta acolhido 
+e bem orientado em cada etapa. 
+Juntos, podemos encontrar a melhor solução para o seu caso."
+
+Depois por baixo quero novamente um local para fotos, mas do lado esquerdo, e quero ter 5 fotos a alterar continuamente entre elas como slide (fotoloja1,2,3,4 e 5)
+Do lado dessas fotos em slide quero o titulo " Sobre o escritório", seguido do seguinte texto: 
+"Situado no coração do Dão, em Nelas, o escritório foi projetado para oferecer aos clientes um atendimento próximo e personalizado, 
+refletindo os valores de seriedade e dedicação que marcam o nosso trabalho.
+
+A localização estratégica do escritório permite fácil acesso a quem precisa de serviços jurídicos na região,
+ enquanto o ambiente é pensado para garantir conforto, privacidade e eficiência. Cada cliente é tratado com
+ respeito e atenção, recebendo orientação clara e transparente em todas as etapas do processo. 
+Um espaço onde a confiança e o profissionalismo se encontram, sempre com o objetivo de 
+oferecer a melhor solução jurídica para cada situação.
+
+
+Visite-nos!"
+
+Por baixo disso que o título "Missão" seguido dos seguintes tópicos:
+• Fazer da sua confiança a nossa maior responsabilidade
+
+• Defender os seus direitos com paixão e profissionalismo
+
+• Atender às suas necessidades com um serviço de excelência
+
+
+
+
+Página "Áreas de Atuação":
+
+Nesta página quero que constem as diversas áreas de atuação, cada uma com um icon, título e descrição, que são as seguintes:
+
+ - Penal:
+A sua função é proteger os bens jurídicos fundamentais da sociedade, tais como a vida, a integridade física, a liberdade, a propriedade, entre outros
+- Empresarial
+Ele abrange aspectos como contratos, societário, falências, propriedade intelectual, entre outros. A atuação eficaz nesta área é crucial 
+-Fiscal
+Esta área do direito é fundamental para garantir a conformidade fiscal, a eficiência na gestão tributária e a defesa dos direitos dos contribuintes 
+-Laboral
+Este campo é essencial para garantir a justiça nas relações laborais e promover um ambiente de trabalho equilibrado e seguro
+-Família
+Trata das relações familiares e das questões relacionadas ao núcleo familiar, como casamento, divórcio, guarda dos filhos
+- Insolvências/Execuções
+São processos que envolvem a resolução de situações de inadimplência e incapacidade financeira, tanto de pessoas físicas quanto jurídicas
+- Processos Extrajudiciais
+Elaboração de contratos e atos notariais; 
+Registo automóvel, predial e comercial; 
+Divórcio e Regulação das Responsabilidades parentais, Etc; 
+Intermediação de acordos com Finanças e Segurança Social;
+Contraordenações e multas. Etc. 
+-Outros:
+Além dos serviços retro descritos, estamos ao seu dispor para outras áreas do direito que não as aqui elencadas, não hesite em contactar-nos. 
+
+
+Página "Contactos":
+
+Nesta página devem estar os seguintes contactos, cada um com o icon:
+"Conceição Lopes - Advogada
+Morada:
+Avenida João XXIII, Bloco 2, R/C, Nelas
+
+
+Horário de trabalho
+2ª a 6ª feira: 9h - 18h
+
+Contactos:
++351 910 322 893 e 
+(Chamada para a rede móvel nacional)
+
+Email:
+conceicao-66631c@adv.oa.pt"
+
+Gostaria ainda de ter um mapa do google maps com a localização deste link: https://maps.app.goo.gl/XvhhBHTDY9kCFyTXA
+
+Página/botão "Agendamento"
+
+Este botão deve abrir um quadro para preenchimento pelo cliente com os seguintes dados:
+Primeiro Nome
+Último Nome
+Email
+Telefone
+Data da consulta(deve abrir calendário para escolher dia)
+Hora da consulta (deve abrir escolha multipla de horário entre as 9h e as 18h)
+Motivo da consulta jurídica (espaço para escrita livre)
+
+Por baixo deve ainda ter um espaço para o cliente clicar a aceitar "GDPR - Eu concordo que este site armazene as informações enviadas por mim,
+ neste pedido de agendamento, de forma a que se proceda à resposta da informação solicitada, por parte da advogada Conceição Lopes"
+
+Seguido do botão "Solicitar Agendamento"
+
+Quando o formulário for enviado deve aparecer a seguinte mensagem: " O seu pedido de agendamento foi enviado. Entraremos em contacto brevemente. Obrigada pela preferência!"
+
+Os dados deste formulário devem ser enviados para o email geral.raiolaser@gmail.com
+
+
+Rodapé: 
+
+No rodapé quero novamente o logotipo, os contactos e morada, do lado esquerdo. A meio quero os tópicos da área de atuação e do lado esquedo podes colocar outras coisas como 
+cookies, proteção de dados e outras coisas que a legislação portuguesa obrigue. Deves fazer o site com cookies e tudo isso. 
+
+Não te esqueças de usar sempre as cores e layout do codigo que te enviei 

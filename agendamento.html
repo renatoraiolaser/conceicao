@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agendamento - Conceição Lopes - Advogada</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="scripts.js"></script>
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header>
+        <div class="top-bar">
+            <img src="logo.png" alt="Logotipo Conceição Lopes" class="logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="areas.html">Áreas de Atuação</a></li>
+                <li><a href="contactos.html">Contactos</a></li>
+                <li><a href="agendamento.html" class="btn-agendamento">Agendamento</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Formulário de Agendamento -->
+    <section class="agendamento-form">
+        <h2>Agendar Consulta</h2>
+        <form id="agendamentoForm">
+            <label for="firstName">Primeiro Nome:</label>
+            <input type="text" id="firstName" name="firstName" required>
+
+            <label for="lastName">Último Nome:</label>
+            <input type="text" id="lastName" name="lastName" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="phone">Telefone:</label>
+            <input type="tel" id="phone" name="phone" required>
+
+            <label for="date">Data da consulta:</label>
+            <input type="date" id="date" name="date" required>
+
+            <label for="time">Hora da consulta:</label>
+            <select id="time" name="time" required>
+                <option value="">Selecione um horário</option>
+                <!-- Horários de 9h às 18h em intervalos de 30 minutos -->
+                <option value="09:00">09:00</option>
+                <option value="09:30">09:30</option>
+                <option value="10:00">10:00</option>
+                <option value="10:30">10:30</option>
+                <option value="11:00">11:00</option>
+                <option value="11:30">11:30</option>
+                <option value="12:00">12:00</option>
+                <option value="12:30">12:30</option>
+                <option value="13:00">13:00</option>
+                <option value="13:30">13:30</option>
+                <option value="14:00">14:00</option>
+                <option value="14:30">14:30</option>
+                <option value="15:00">15:00</option>
+                <option value="15:30">15:30</option>
+                <option value="16:00">16:00</option>
+                <option value="16:30">16:30</option>
+                <option value="17:00">17:00</option>
+                <option value="17:30">17:30</option>
+            </select>
+
+            <label for="motivo">Motivo da consulta jurídica:</label>
+            <textarea id="motivo" name="motivo" rows="4" required></textarea>
+
+            <div class="gdpr">
+                <input type="checkbox" id="gdpr" name="gdpr" required>
+                <label for="gdpr">GDPR - Eu concordo que este site armazene as informações enviadas por mim, neste pedido de agendamento, de forma a que se proceda à resposta da informação solicitada, por parte da advogada Conceição Lopes.</label>
+            </div>
+
+            <button type="submit">Solicitar Agendamento</button>
+        </form>
+    </section>
+
+   
+    <!-- Rodapé -->
+    <footer>
+        <div class="footer-container">
+        <!-- Logo do rodapé -->
+        <div class="footer-logo">
+            <img src="logo.png" alt="Logo" />
+        </div>
+        
+        <!-- Contatos e outras informações -->
+        <div class="footer-contacts">
+            <h3>Contactos</h3>
+            <p>Conceição Lopes - Advogada</p>
+            <p>Morada: Avenida João XXIII, Bloco 2, R/C, Nelas</p>
+            <p>Horário de trabalho: 2ª a 6ª feira: 9h - 18h</p>
+            <p>Contactos: +351 910 322 893</p>
+            <p>Email: conceicao-66631c@adv.oa.pt</p>
+        </div>
+            <div class="footer-center">
+                <h4>Áreas de Atuação</h4>
+                <ul>
+                    <li>Penal</li>
+                    <li>Empresarial</li>
+                    <li>Fiscal</li>
+                    <li>Laboral</li>
+                    <li>Família</li>
+                </ul>
+            </div>
+            <div class="footer-right">
+                <p>© 2024 Conceição Lopes - Todos os direitos reservados.</p>
+		<P> Desenvolvido por RaioLaser
+                <p><a href="cookies.html">Cookies</a> | <a href="politica-dados.html">Proteção de Dados</a></p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
